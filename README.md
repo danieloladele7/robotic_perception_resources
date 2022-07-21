@@ -1,4 +1,4 @@
-# Point Cloud Manipulation (Segmentation and Clustering) Hub
+# 3D Point Cloud Hub (Paper with Codes)
 
 ### Classical Algorithms and Techniques
 - Lightweight and Accurate Point Cloud Clustering. [[PAPER]](https://link.springer.com/article/10.1007/s10514-019-09883-y) [[CODE]](https://github.com/yzrobot/adaptive_clustering)
