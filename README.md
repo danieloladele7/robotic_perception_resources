@@ -23,13 +23,21 @@ Collect paper about ground segmentation in 3D point cloud. This is the first and
 - GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles [[code](https://github.com/anshulpaigwar/GndNet)]
 
 ### Elevation and terrain mapping for Robotics:
-The elevation mapping technique which was introduced in 2005 during the DARPA challenge by [[Researchers at Stanford University](https://onlinelibrary.wiley.com/doi/10.1002/rob.20147)] was proposed for easier representation of point clouds for ground segementation and real-time autonomous driving. Although, some of the above indicated in literature the use of an elevation method [[RECM-JCP](https://www.mdpi.com/2072-4292/13/16/3239/xml)], a review of thier code shows the use of the polar grid mapping method which is also a very popular and efficient technique for point cloud representation. This section would also include elevation and terrain mapping applied to SLAM and robotic navigation. 
+The elevation mapping technique which was introduced in 2005 during the DARPA challenge by [[Researchers at Stanford University](https://onlinelibrary.wiley.com/doi/10.1002/rob.20147)] was proposed for easier representation of point clouds for ground segementation and real-time autonomous driving. Although, some of the above indicated in literature the use of an elevation method [[RECM-JCP](https://www.mdpi.com/2072-4292/13/16/3239/xml)], a review of thier code shows the use of the polar grid mapping method which is also a very popular and efficient technique for point cloud representation. This section would also include elevation and terrain mapping applied to **SLAM and robotic navigation**. 
 
 - Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization (2018) [[paper](https://ieeexplore.ieee.org/document/8392399)], [[code](https://github.com/ANYbotics/elevation_mapping)]
+
+- GEM: Online Globally Consistent Dense Elevation Mapping for Unstructured Terrain [[paper](https://ieeexplore.ieee.org/document/9293017)], [[code](https://github.com/ZJU-Robotics-Lab/GEM)] 
+
+- Elevation Mapping for Locomotion and Navigation using GPU [[paper](https://arxiv.org/pdf/2204.12876v1.pdf)], [[code](https://github.com/leggedrobotics/elevation_mapping_cupy)]
+
+- RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map [[ring](https://arxiv.org/pdf/2204.07992v1.pdf)] [[ring++](https://arxiv.org/pdf/2210.05984v1.pdf)], [[code](https://github.com/MaverickPeter/MR_SLAM)]
 
 - Reconstructing occluded Elevation Information in Terrain Maps with Self-supervised Learning (2022) [[paper](https://ieeexplore.ieee.org/document/9676411)], [[code](https://github.com/mstoelzle/solving-occlusion)]
 
 - Terrain mapping algorithm for motion planning and control by [[robot locomotion](https://github.com/robot-locomotion/terrain-server)]
+
+- [[paper]()], [[code]()]
 
 #### Metrics
 - Ground segmentation benchmark in SemanticKITTI dataset by [[url-kaist team](https://github.com/url-kaist/Ground-Segmentation-Benchmark)]
