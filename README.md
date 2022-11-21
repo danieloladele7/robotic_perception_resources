@@ -45,6 +45,8 @@ The elevation mapping technique which was introduced in 2005 during the DARPA ch
 ### 2. Clustering Algorithms and Techniques
 - A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation (2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/papers/Zhao_A_Technical_Survey_and_Evaluation_of_Traditional_Point_Cloud_Clustering_ICCVW_2021_paper.pdf)], [[code](https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster)]
 
+- FEC: Fast Euclidean Clustering for Point Cloud Segmentation [[paper](https://www.mdpi.com/2504-446X/6/11/325)], [[code](https://github.com/unageek/fast-euclidean-clustering)]
+
 ## 2. Deep Learning Segmentation and Object detection Algorithms
 - [PointNet](https://stanford.edu/~rqi/pointnet/): Deep Learning on Point Sets for 3D Classification and Segmentation. [[paper](http://arxiv.org/abs/1612.00593)] [[code](https://github.com/charlesq34/pointnet)]
 - [PointNet++](https://stanford.edu/~rqi/pointnet2/): Deep Hierarchical Feature Learning on Point Sets in a Metric Space. [[paper](https://arxiv.org/abs/1706.02413)] [[code](https://github.com/charlesq34/pointnet2)]
