@@ -65,7 +65,25 @@
 - Lidar and radar fusion for real-time road-objects detection and tracking [[Paper]](https://www.researchgate.net/publication/351860734_Lidar_and_radar_fusion_for_real-time_road-objects_detection_and_tracking)
 - Awesome Radar Perception [[GitHub]](https://github.com/ZHOUYI1023/awesome-radar-perception)
 - Automatic Extrinsic Calibration of Vision and Lidar by Maximizing Mutual Information [[Paper]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/112212/rob21542.pdf?sequence=1)
-- Surrounding Objects Detection and Tracking for Autonomous Driving Using LiDAR and Radar Fusion [[Paper]](https://cjme.springeropen.com/articles/10.1186/s10033-021-00630-y)
-- Camera-LiDAR Multi-Level Sensor Fusion for Target Detection at the Network Edge [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8227618/)
-- Real-time RADAR and LIDAR Sensor Fusion for Automated Driving [[Paper]](https://link.springer.com/chapter/10.1007/978-981-15-1366-4_11)
-- Radar Camera Fusion via Representation Learning in Autonomous Driving [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Dong_Radar_Camera_Fusion_via_Representation_Learning_in_Autonomous_Driving_CVPRW_2021_paper.pdf)
+- Surrounding Objects Detection and Tracking for Autonomous Driving Using LiDAR and Radar Fusion [[Paper](https://cjme.springeropen.com/articles/10.1186/s10033-021-00630-y)]
+- Camera-LiDAR Multi-Level Sensor Fusion for Target Detection at the Network Edge [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8227618/)]
+- Real-time RADAR and LIDAR Sensor Fusion for Automated Driving [[Paper](https://link.springer.com/chapter/10.1007/978-981-15-1366-4_11)]
+- Radar Camera Fusion via Representation Learning in Autonomous Driving [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Dong_Radar_Camera_Fusion_via_Representation_Learning_in_Autonomous_Driving_CVPRW_2021_paper.pdf)]
+
+# 3D Point Cloud Ground Segmentation with code:
+Collect paper about ground segmentation in 3D point cloud.
+## Geometry and ML Based With Code:
+- Fast Segmentation of 3D Point Clouds for Ground Vehicles (2010) [[pdf](http://ieeexplore.ieee.org/document/5548059/)], [[code](https://github.com/lorenwel/linefit_ground_segmentation)], [[3rd party implementation](https://github.com/KennyWGH/efficient_online_segmentation)]
+- (GP-INASC) On the Segmentation of 3D LIDAR Point Clouds (2011) [[pdf](http://ieeexplore.ieee.org/document/5979818/)] [[code](https://github.com/alualu628628/Gaussian-Process-Incremental-Sample-Consensus-GP-INASC)]
+- Fast Segmentation of 3D Point Clouds: A Paradigm on LiDAR Data for Autonomous Vehicle Applications (2017) [[pdf](http://ieeexplore.ieee.org/document/7989591/)] [[single plane code](https://github.com/AbangLZU/plane_fit_ground_filter)], [[multi plane code](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image)], [[3rd party implementation](https://github.com/chrise96/3D_Ground_Segmentation)]
+- A Slope-robust Cascaded Ground Segmentation in 3D Point Cloud for Autonomous Vehicles (2018) [[pdf](https://ieeexplore.ieee.org/document/8569534)], [[Python](https://bitbucket.org/n-patiphon/slope_robust_ground_seg)], [[c++](https://github.com/wangx1996/Cascaded-Lidar-Ground-Segmentation)]
+- A Probability **Occupancy Grid** Based Approach for Real-Time LiDAR Ground Segmentation (2019) [[pdf](https://ieeexplore.ieee.org/document/8666170/)], [[3rd party implementation](https://github.com/MukhlasAdib/KITTI_Mapping)]
+- Patchwork: Concentric Zone-based Region-wise Ground Segmentation with Ground Likelihood Estimation Using a 3D LiDAR Sensor (2021) [[pdf](https://urserver.kaist.ac.kr/publicdata/patchwork/RA_L_21_patchwork_final_submission.pdf)], [[code](https://github.com/LimHyungTae/patchwork)]
+- Fast Ground Segmentation for 3D LiDAR Point Cloud Based on Jump-Convolution-Process (2021) [[pdf](https://www.mdpi.com/2072-4292/13/16/3239/xml)], [[code](https://github.com/wangx1996/Fast-Ground-Segmentation-Based-on-JPC)]
+- Patchwork++: Fast and Robust Ground Segmentation Solving Partial Under-Segmentation Using 3D Point Cloud (2022) [[pdf](https://arxiv.org/pdf/2207.11919.pdf)], [[code](https://github.com/url-kaist/patchwork-plusplus)]
+- Ground segmentation benchmark in SemanticKITTI dataset by patchwork team [[code](https://github.com/url-kaist/Ground-Segmentation-Benchmark)]
+- GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles [[code](https://github.com/anshulpaigwar/GndNet)]
+
+# REFERENCES
+- 3D point cloud by [[zhulf0804](https://github.com/zhulf0804/3D-PointCloud)]
+- Lidar-Ground-Segmantation-Paper-List by [[wangx1996](https://github.com/wangx1996/Lidar-Ground-Segmantation-Paper-List)]
