@@ -109,7 +109,18 @@ The elevation mapping technique which was introduced in 2005 during the DARPA ch
 - Real-time RADAR and LIDAR Sensor Fusion for Automated Driving [[paper](https://link.springer.com/chapter/10.1007/978-981-15-1366-4_11)]
 - Radar Camera Fusion via Representation Learning in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Dong_Radar_Camera_Fusion_via_Representation_Learning_in_Autonomous_Driving_CVPRW_2021_paper.pdf)]
 
-# REFERENCES
+# Perception Resource
+- Pytorch C++ by [[prabhuomkar](https://github.com/prabhuomkar/pytorch-cpp)]
 - Paper with Code [[site](https://paperswithcode.com/)]
 - 3D point cloud by [[zhulf0804](https://github.com/zhulf0804/3D-PointCloud)]
 - Lidar-Ground-Segmantation-Paper-List by [[wangx1996](https://github.com/wangx1996/Lidar-Ground-Segmantation-Paper-List)]
+- The list of vision-based SLAM by [[tzutalin](https://github.com/tzutalin/awesome-visual-slam)]
+- Lidar Point clound processing for Autonomous Driving by [[beedotkiran](https://github.com/beedotkiran/Lidar_For_AD_references)]
+- Vision-Centric-BEV-Perception by [[4DVLab](https://github.com/4DVLab/Vision-Centric-BEV-Perception)]
+- Awesome Radar Perception by [[ZHOUYI1023](https://github.com/ZHOUYI1023/awesome-radar-perception)]
+
+# Useful Links
+- IoT: Awesome edge computing by [[qijianpeng](https://github.com/qijianpeng/awesome-edge-computing)]
+- Logical Neural Networks a neuro symbolic framework by [[IBM](https://github.com/danieloladele7/LNN)]
+- DeepSpeed Examples by [[microsoft](https://github.com/danieloladele7/DeepSpeedExamples)]
+- GPT4All: An ecosystem of open-source on-edge large language models by [[nomic-ai](https://github.com/nomic-ai/gpt4all)] 
