@@ -117,6 +117,7 @@ The elevation mapping technique which was introduced in 2005 during the DARPA ch
 - The list of vision-based SLAM by [[tzutalin](https://github.com/tzutalin/awesome-visual-slam)]
 - Lidar Point clound processing for Autonomous Driving by [[beedotkiran](https://github.com/beedotkiran/Lidar_For_AD_references)]
 - Vision-Centric-BEV-Perception by [[4DVLab](https://github.com/4DVLab/Vision-Centric-BEV-Perception)]
+- Awesome BEV Perception from Multi-Cameras by [[chaytonmin](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras)]
 - Awesome Radar Perception by [[ZHOUYI1023](https://github.com/ZHOUYI1023/awesome-radar-perception)]
 
 # Useful Links
